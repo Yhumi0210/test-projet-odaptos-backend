@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Tamagoyaki, Omelette japonaise",
+      "ingredients": ["oeuf", "fromage", "lait"],
+      "image": "/img/recipes/omelette-japonaise.webp"
+    },
+    {
+      "id": 2,
+      "name": "Salade de concombre",
+      "ingredients": ["salade", "concombre", "tomates", "radis"],
+      "image": "/img/recipes/salade-concombre.webp"
+    },
+    {
+      "id": 3,
+      "name": "Salade César",
+      "ingredients": ["salade", "poulet", "croutons", "sauce cesar"],
+      "image": "/img/recipes/salade-cesar.webp"
+    },
+    {
+      "id": 4,
+      "name": "Salade de petits pois",
+      "ingredients": ["petits pois", "oeuf", "croutons", "tomate", "vinaigrette"],
+      "image": "/img/recipes/salade-petits-pois-oeuf.webp"
+    },
+    {
+      "id": 5,
+      "name": "Saumon & Avocat",
+      "ingredients": ["saumon fumé", "avocat", "vinaigrette"],
+      "image": "/img/recipes/saumon-avocat.webp"
+    },
+    {
+      "id": 6,
+      "name": "Canard lacqué",
+      "ingredients": ["canard", "légumes", "vin", "groseilles"],
+      "image": "/img/recipes/canard-lacque.webp"
+    },
+    {
+      "id": 7,
+      "name": "Fruits de mer",
+      "ingredients": ["crevettes", "moules", "oeuf", "huile", "citron"],
+      "image": "/img/recipes/fruits-de-mer.webp"
+    },
+    {
+      "id": 8,
+      "name": "Pâtes à la carbonara",
+      "ingredients": ["tagliatelles", "fromage italien", "lardons"],
+      "image": "/img/recipes/pate-carbonara.webp"
+    },
+    {
+      "id": 9,
+      "name": "Pâtes sauce fromagère",
+      "ingredients": ["pates", "fromage italien", "creme"],
+      "image": "/img/recipes/pates-sauce-fromage.webp"
+    },
+    {
+      "id": 10,
+      "name": "Pièce de porc grillée",
+      "ingredients": ["pièce de porc", "légumes", "beurre"],
+      "image": "/img/recipes/piece-de-porc-grillée.webp"
+    },
+    {
+      "id": 11,
+      "name": "Poisson blanc",
+      "ingredients": ["poisson", "courgette", "brocolis", "beurre"],
+      "image": "/img/recipes/poisson-blanc.webp"
+    },
+    {
+      "id": 12,
+      "name": "Poulet rôti",
+      "ingredients": ["poulet", "asperges", "courgettes", "oignons"],
+      "image": "/img/recipes/poulet-rotis.webp"
+    },
+    {
+      "id": 13,
+      "name": "Fondant chocolat framboise",
+      "ingredients": ["oeufs", "chocolat", "farine", "framboise", "sucre"],
+      "image": "/img/recipes/fondant-chocolat-framboise.webp"
+    },
+    {
+      "id": 14,
+      "name": "Glace vanille fraise",
+      "ingredients": ["glace", "fraise", "chocolat"],
+      "image": "/img/recipes/glaces-vanille-fraise.webp"
+    },
+    {
+      "id": 15,
+      "name": "Tarte aux fruits rouges",
+      "ingredients": ["fraise", "framboise", "myrtille", "pate brisée", "lait"],
+      "image": "/img/recipes/tarte-fruits-rouges.webp"
+    }
+  ]
+}
