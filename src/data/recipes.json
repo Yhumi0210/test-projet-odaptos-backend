@@ -4,91 +4,121 @@
       "id": 1,
       "name": "Tamagoyaki, Omelette japonaise",
       "ingredients": ["oeuf", "fromage", "lait"],
-      "image": "/img/recipes/omelette-japonaise.webp"
+      "image": "/img/recipes/omelette-japonaise.webp",
+      "description": "Une recette simple pour un petit déjeuner, mais aussi un dessert !",
+      "tags": ["déjeuner", "dessert", "végétarien"]
     },
     {
       "id": 2,
       "name": "Salade de concombre",
       "ingredients": ["salade", "concombre", "tomates", "radis"],
-      "image": "/img/recipes/salade-concombre.webp"
+      "image": "/img/recipes/salade-concombre.webp",
+      "description": "Une salade de concombre est un plat simple et frais, Dégustez !.",
+      "tags": ["plat", "entrée", "végétarien"]
     },
     {
       "id": 3,
       "name": "Salade César",
       "ingredients": ["salade", "poulet", "croutons", "sauce cesar"],
-      "image": "/img/recipes/salade-cesar.webp"
+      "image": "/img/recipes/salade-cesar.webp",
+      "description": "Une salade César est un plat simple et délicieux. Vous pouvez enlever le poulet pour un plat végétarien.",
+      "tags": ["plat", "entrée"]
     },
     {
       "id": 4,
       "name": "Salade de petits pois",
       "ingredients": ["petits pois", "oeuf", "croutons", "tomate", "vinaigrette"],
-      "image": "/img/recipes/salade-petits-pois-oeuf.webp"
+      "image": "/img/recipes/salade-petits-pois-oeuf.webp",
+      "description": "Une salade de petits pois est un plat simple et délicieux, il suffit de cuire les légumes et de les ajouter à la salade.",
+      "tags": ["plat", "entrée", "végétarien"]
     },
     {
       "id": 5,
       "name": "Saumon & Avocat",
       "ingredients": ["saumon fumé", "avocat", "vinaigrette"],
-      "image": "/img/recipes/saumon-avocat.webp"
+      "image": "/img/recipes/saumon-avocat.webp",
+      "description": "Une recette simple et savoureux pour un petit déjeuner ou une entrée !",
+      "tags": ["déjeuner", "entrée"]
     },
     {
       "id": 6,
       "name": "Canard lacqué",
       "ingredients": ["canard", "légumes", "vin", "groseilles"],
-      "image": "/img/recipes/canard-lacque.webp"
+      "image": "/img/recipes/canard-lacque.webp",
+      "description": "Une recette savoureuse et gourmande",
+      "tags": ["plat", "gourmand"]
     },
     {
       "id": 7,
       "name": "Fruits de mer",
       "ingredients": ["crevettes", "moules", "oeuf", "huile", "citron"],
-      "image": "/img/recipes/fruits-de-mer.webp"
+      "image": "/img/recipes/fruits-de-mer.webp",
+      "description": "Une recette savoureuse pour les amoureux de la mer ou une entrée !",
+      "tags": ["plat", "entrée"]
     },
     {
       "id": 8,
       "name": "Pâtes à la carbonara",
       "ingredients": ["tagliatelles", "fromage italien", "lardons"],
-      "image": "/img/recipes/pate-carbonara.webp"
+      "image": "/img/recipes/pate-carbonara.webp",
+      "description": "Une recette simple et réconfortante !",
+      "tags": ["plat", "gourmand"]
     },
     {
       "id": 9,
       "name": "Pâtes sauce fromagère",
       "ingredients": ["pates", "fromage italien", "creme"],
-      "image": "/img/recipes/pates-sauce-fromage.webp"
+      "image": "/img/recipes/pates-sauce-fromage.webp",
+      "description": "Une recette simple et réconfortante !",
+      "tags": ["plat", "gourmand", "végétarien"]
     },
     {
       "id": 10,
       "name": "Pièce de porc grillée",
       "ingredients": ["pièce de porc", "légumes", "beurre"],
-      "image": "/img/recipes/piece-de-porc-grillée.webp"
+      "image": "/img/recipes/piece-de-porc-grillée.webp",
+      "description": "Une recette gourmande et savoureuse !",
+      "tags": ["plat", "gourmand"]
     },
     {
       "id": 11,
       "name": "Poisson blanc",
       "ingredients": ["poisson", "courgette", "brocolis", "beurre"],
-      "image": "/img/recipes/poisson-blanc.webp"
+      "image": "/img/recipes/poisson-blanc.webp",
+      "description": "Une recette simple et savoureuse !",
+      "tags": ["plat", "healthy"]
     },
     {
       "id": 12,
       "name": "Poulet rôti",
       "ingredients": ["poulet", "asperges", "courgettes", "oignons"],
-      "image": "/img/recipes/poulet-rotis.webp"
+      "image": "/img/recipes/poulet-rotis.webp",
+      "description": "Une recette simple et qu'on adore le dimanche aussi avec des frites !",
+      "tags": ["plat", "gourmand"]
     },
     {
       "id": 13,
       "name": "Fondant chocolat framboise",
       "ingredients": ["oeufs", "chocolat", "farine", "framboise", "sucre"],
-      "image": "/img/recipes/fondant-chocolat-framboise.webp"
+      "image": "/img/recipes/fondant-chocolat-framboise.webp",
+      "description": "Une recette fondante et gourmande !",
+      "tags": ["dessert", "chocolat"]
     },
     {
       "id": 14,
       "name": "Glace vanille fraise",
       "ingredients": ["glace", "fraise", "chocolat"],
-      "image": "/img/recipes/glaces-vanille-fraise.webp"
+      "image": "/img/recipes/glaces-vanille-fraise.webp",
+      "description": "Une recette rafraichissante !",
+      "tags": ["dessert", "glace"]
     },
     {
       "id": 15,
       "name": "Tarte aux fruits rouges",
       "ingredients": ["fraise", "framboise", "myrtille", "pate brisée", "lait"],
-      "image": "/img/recipes/tarte-fruits-rouges.webp"
+      "image": "/img/recipes/tarte-fruits-rouges.webp",
+      "description": "Une recette gourmande et savoureuse !",
+      "tags": ["dessert", "fruits"]
     }
   ]
 }

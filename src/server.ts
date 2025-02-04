@@ -1,11 +1,11 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
+import fs from "fs";
 import dotenv from "dotenv";
 import path from "path";
 
 import recipeRoutes from "./routes/recipes";
 import ingredientRoutes from "./routes/ingredients";
-import userRoutes from "./routes/users";
 
 dotenv.config();
 
@@ -20,7 +20,6 @@ app.use("/img", express.static(path.join(__dirname, "img")));
 // Routes
 app.use("/api/recipes", recipeRoutes);
 app.use("/api/ingredients", ingredientRoutes);
-app.use("/api/users", userRoutes);
 
 app.get("/", (req: Request, res: Response) => {
   res.send("Bienvenue sur l'API de smartfridge");
