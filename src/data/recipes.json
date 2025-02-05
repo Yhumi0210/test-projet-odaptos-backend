@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "Salade César",
+      "name": "Salade Cesar",
       "ingredients": ["salade", "poulet", "croutons", "sauce cesar"],
       "image": "/img/recipes/salade-cesar.webp",
       "description": "Une salade César est un plat simple et délicieux. Vous pouvez enlever le poulet pour un plat végétarien.",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "name": "Pâtes à la carbonara",
+      "name": "Pates à la carbonara",
       "ingredients": ["tagliatelles", "fromage italien", "lardons"],
       "image": "/img/recipes/pate-carbonara.webp",
       "description": "Une recette simple et réconfortante !",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "name": "Pâtes sauce fromagère",
+      "name": "Pates sauce fromagère",
       "ingredients": ["pates", "fromage italien", "creme"],
       "image": "/img/recipes/pates-sauce-fromage.webp",
       "description": "Une recette simple et réconfortante !",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "name": "Pièce de porc grillée",
+      "name": "Piece de porc grillée",
       "ingredients": ["pièce de porc", "légumes", "beurre"],
       "image": "/img/recipes/piece-de-porc-grillée.webp",
       "description": "Une recette gourmande et savoureuse !",
@@ -90,7 +90,7 @@
     },
     {
       "id": 12,
-      "name": "Poulet rôti",
+      "name": "Poulet roti",
       "ingredients": ["poulet", "asperges", "courgettes", "oignons"],
       "image": "/img/recipes/poulet-rotis.webp",
       "description": "Une recette simple et qu'on adore le dimanche aussi avec des frites !",

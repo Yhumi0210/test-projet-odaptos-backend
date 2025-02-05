@@ -1,16 +1,12 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
-import fs from "fs";
-import dotenv from "dotenv";
 import path from "path";
 
 import recipeRoutes from "./routes/recipes";
 import ingredientRoutes from "./routes/ingredients";
 
-dotenv.config();
-
 const app = express();
-const port = process.env.PORT || 3000;
+const port = 3000;
 
 app.use(express.json());
 app.use(cors());
