@@ -1,4 +1,4 @@
-# smartfridge est une application web de cuisine
+# smartfridge est une application web de recettes de cuisine
 
 ### Back-End
 
